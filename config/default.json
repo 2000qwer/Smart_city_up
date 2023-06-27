@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://MichalMatracz:Qwer1997@@cluster0.o2qdros.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "pstzpcrvnebs1eq67ltn"
+}
